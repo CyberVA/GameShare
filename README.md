@@ -18,7 +18,7 @@ Developers:
 And a Special thanks to for help with updating graphics for the IndieFest convention.
 Keira W.
   
-=====================================================================================
+======================================================================
    
 JellyHunter:
 For best graphics, run game in 1024x768, graphical glitches will be present using any other resolution.
