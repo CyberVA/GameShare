@@ -6,7 +6,7 @@ Recluse:
 For best graphics, run game in 1024x768.
 
 Recluse is a game about an adventurer who's turned into a spider by an evil demon. 
-The spider is then forced to collect gold from adventurers who enter his dungeon, in order to pay the evil demon to turn him back to human.
+The spider is then forced to collect gold from adventurers who enter his dungeon in order to pay the evil demon to turn him back to human.
 
 Developers:
   Ryan G.
@@ -15,14 +15,12 @@ Developers:
   Valarie B.
   Katie A.
   
-And a Special thanks to for help with updating graphics for the IndieFest convention.
-Keira W.
+And a Special thanks to Keira W. for help with updating graphics for the IndieFest convention.
   
 ======================================================================
    
 JellyHunter:
-For best graphics, run game in 1024x768, graphical glitches will be present using any other resolution.
-This project
+For best graphics, run the game in 1024x768, graphical glitches will be present using any other resolution.
 
 You are Jello, an intrepid slime-astronaut and hunter of rare condiments. You've heard word that a crashed cargo ship
 was carrying an incredibly powerful load of jelly, so you've entered the wreckage to claim your fortune.
